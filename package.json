@@ -1,0 +1,11 @@
+{
+  "name": "repro-chokidar-never-close",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": "laggingreflex/repro-chokidar-never-close",
+  "dependencies": {
+    "chokidar": "^2.0.4"
+  }
+}
